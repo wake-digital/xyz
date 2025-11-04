@@ -1,10 +1,10 @@
-### Reviewer TLDR:
+### TLDR:
 
-If you don't care about execution and only find the "bussiness logic" relevant, the ./scrape_all_products.ts file contains basically all of it and the getProducts function is just basically a fetch wrapper.
+If you don't care about execution and only find the "bussiness logic" relevant, the ./scrape_all_products.ts file contains basically all of it and the getProducts function is just a fetch wrapper.
 
 ### Dependencies:
 
-Node.js and NPM
+Node.js
 
 ### Getting started:
 
